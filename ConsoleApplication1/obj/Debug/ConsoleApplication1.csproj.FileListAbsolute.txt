@@ -1,0 +1,5 @@
+F:\C#Practice\CashBoxTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\C#Practice\CashBoxTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\C#Practice\CashBoxTest\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\C#Practice\CashBoxTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\C#Practice\CashBoxTest\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

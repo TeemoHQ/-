@@ -1,0 +1,7 @@
+F:\C#Practice\CashBoxTest\CashBoxTest\bin\Debug\CashBoxTest.exe.config
+F:\C#Practice\CashBoxTest\CashBoxTest\bin\Debug\CashBoxTest.exe
+F:\C#Practice\CashBoxTest\CashBoxTest\bin\Debug\CashBoxTest.pdb
+F:\C#Practice\CashBoxTest\CashBoxTest\obj\Debug\CashBoxTest.csprojResolveAssemblyReference.cache
+F:\C#Practice\CashBoxTest\CashBoxTest\obj\Debug\CashBoxTest.exe
+F:\C#Practice\CashBoxTest\CashBoxTest\obj\Debug\CashBoxTest.pdb
+F:\C#Practice\CashBoxTest\CashBoxTest\bin\Debug\ITLlib.dll

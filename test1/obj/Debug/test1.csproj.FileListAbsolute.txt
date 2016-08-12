@@ -1,0 +1,6 @@
+F:\C#Practice\CashBoxTest\test1\bin\Debug\test1.exe.config
+F:\C#Practice\CashBoxTest\test1\bin\Debug\test1.exe
+F:\C#Practice\CashBoxTest\test1\bin\Debug\test1.pdb
+F:\C#Practice\CashBoxTest\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+F:\C#Practice\CashBoxTest\test1\obj\Debug\test1.exe
+F:\C#Practice\CashBoxTest\test1\obj\Debug\test1.pdb
